@@ -1,0 +1,59 @@
+* {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body {
+    background-color: #a0acac;
+}
+
+h3 {
+    color: yellow;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+ul {
+    text-decoration: none;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+#nav {
+    text-align: left;
+}
+
+#heading {
+    color: #000000;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.wiki {
+    color: blue;
+}
+
+.subheading {
+    color: black;
+    font-size: 28px;
+    text-align: left;
+}
+
+.content {
+    text-align: center;
+}
+
+.recipesection {
+    text-align: left;
+    margin-left: 12px;
+}
+
+.coverphoto {
+    width: 800px;
+    height: 350px;
+}
